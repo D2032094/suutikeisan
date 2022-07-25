@@ -6,7 +6,7 @@ const EPS = 0.0001; // 許容誤差
 function main() {
   console.log("x^2 - 2 のニュートン法による数値計算");
 
-  let a = 1.0;
+  let a = 5.0;
   let b;
   console.log("初期値 a=" + a);
 
